@@ -5,3 +5,6 @@
 - 📫 How to reach me :
   - Mail : contact@victoruettwiller.com
   - SMS : +33 06 20 83 97 32 (Please don't call)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=totor88800)](https://github.com/anuraghazra/github-readme-stats)
