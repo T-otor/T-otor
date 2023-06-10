@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Totor88800
+- 👋 Hi, I’m T_otor
 - 👀 I’m interested in Networking, hosting and another domains in link with that !
-- 🌱 I’m currently learning BUT Réseau & Télécomunications at Colmar - FRANCE
-- 💞️ I’m looking to collaborate on Association ECOWAN
+- 🌱 I’m currently learning BUT Réseau & Télécomunications
 - 📫 How to reach me :
-  - Mail : contact@victoruettwiller.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-otor)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-otor&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  - Elements : @t_otor:matrix.alice-snow.ru
+  - Nothing Else ! Crypted Only :)
