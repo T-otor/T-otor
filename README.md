@@ -2,5 +2,5 @@
 - 👀 I’m interested in Networking, hosting and another domains in link with that !
 - 🌱 I’m currently learning BUT Réseau & Télécomunications
 - 📫 How to reach me :
-  - Elements : @t_otor:matrix.alice-snow.ru
+  - Osint Me Directly.
   - Nothing Else ! Crypted Only :)
