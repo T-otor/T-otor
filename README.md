@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about network and love exploring new technologies. Here’s a little bit about me and my work.
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **SDIS68**
-- 🌱 I’m learning **Python**
+- 🔭 I’m currently working on **Kamatari Online**
+- 🌱 I’m learning **Python and PHP**
 - 💬 Ask me about **what about my work**
 - 📫 How to reach me: **@totor:sans-nuage.fr** (Matrix)
 - ⚡ Fun fact: I love **Elsass meal**
